@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0b7f2ce4-da92-4c84-9728-a3b749b75a9d",
+  "export_job_id": "f9f2d6e0-25fb-43a7-a231-8974d2207bc5",
   "id_short": 659783,
-  "published_at": "2026-04-13T07:30:49Z",
+  "published_at": "2026-04-19T19:10:38Z",
   "repo_name": "all-restaurants-in-youngstown-warren-metro-ohio-us-sample-659783",
   "sample_asset_name": "beamstation_659783_restaurants-us-youngstownwarrenoh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/659783/beamstation_659783_restaurants-us-youngstownwarrenoh_SAMPLE_DIST.csv",
-  "sample_records": 95,
-  "sample_sha256": "825fd6af379060411f1d633f9a0154480d57059c3c0b54639db6e667984981c4",
-  "sample_size_bytes": 361777,
-  "total_records": 959
+  "sample_records": 92,
+  "sample_sha256": "7f38128a86db6c8d030dc26769a73973fee91a27987edc600819270ad155f2dc",
+  "sample_size_bytes": 357877,
+  "total_records": 920
 }
