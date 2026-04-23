@@ -1,6 +1,6 @@
 # All Restaurants in Youngstown-Warren (Metro), Ohio, US
 
-> Free BeamStation sample export with 92 rows and masked direct-contact fields.
+> Free BeamStation sample export with 82 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `659783` |
 | Location | Youngstown-Warren, OH |
 | Category | Restaurants |
-| Full dataset size | 920 records |
-| Free sample size | 92 records (10.0%) |
-| Last export | 2026-04-16T11:02:32.998698+00:00 |
+| Full dataset size | 827 records |
+| Free sample size | 82 records (9.92%) |
+| Last export | 2026-04-23T10:44:21.411664+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-youngstown-warren-metro-ohio-us-sample-659783/releases/download/sample-latest/beamstation_659783_restaurants-us-youngstownwarrenoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
